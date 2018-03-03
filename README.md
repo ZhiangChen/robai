@@ -9,7 +9,7 @@
 
 ## Papers
 1. **AlphaGo Nature** - [*Mastering the game of Go with deep neural networks and tree search, 2016, Nature*](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)  
-`deep neural networks` `supervised learning` `reinforcement learning` `Monte Carlo Search Tree` `Monte Carlo rollout`
+`deep neural networks` `supervised learning` `reinforcement learning` `Monte Carlo Tree Search` `Monte Carlo rollout`
 
 2. **DQN**  
 [*Playing Atari with Deep Reinforcement Learning, 2013, Arxiv*](https://arxiv.org/pdf/1312.5602.pdf)  
@@ -23,6 +23,9 @@
 `deep neural networks` `deep learning`
 
 5. **LfD** - [*A survey of robot learning from demonstration, 2009, Robotics and Autonomous Systems*](https://www.sciencedirect.com/science/article/pii/S0921889008001772)
+
+6. **AlphaGo Zero Nature** - [*Mastering the game of Go without human knowledge, 2017, Nature*](https://www.nature.com/articles/nature24270)  
+`reinforcement learning` `self-play` `multi-task network` `Monte Carlo Tree Search`
 
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
