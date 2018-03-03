@@ -1,5 +1,6 @@
 # RobAI - Robotics & AI
-
+MIT License
+Copyright (c) 2018 Zhiang Chen
 ## Table of Contents
 - [Papers](#papers)
 - [Books](#books)
