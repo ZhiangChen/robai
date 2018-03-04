@@ -42,5 +42,7 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 ## Courses
 
 ## Videos
+1. [The Role of Multi-Agent Learning in Artificial Intelligence Research at DeepMind](https://www.youtube.com/watch?v=CvL-KV3IBcM)  
+`game theory & AI` `AlphaGo`
 
 ## Blogs
