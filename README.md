@@ -28,6 +28,9 @@ Copyright (c) 2018 Zhiang Chen
 6. **AlphaGo Zero Nature** - [*Mastering the game of Go without human knowledge, 2017, Nature*](https://www.nature.com/articles/nature24270)  
 `reinforcement learning` `self-play` `multi-task network` `Monte Carlo Tree Search`
 
+7. **ResNet** - [*Deep Residual Learning for Image Recognition, 2015, Arxiv*](https://arxiv.org/pdf/1512.03385.pdf)  
+`deep neural networks` `deep learning` `residual learning`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
