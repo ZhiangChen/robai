@@ -31,6 +31,10 @@ Copyright (c) 2018 Zhiang Chen
 7. **ResNet** - [*Deep Residual Learning for Image Recognition, 2015, Arxiv*](https://arxiv.org/pdf/1512.03385.pdf)  
 `deep neural networks` `deep learning` `residual learning`
 
+8. **Robot Learning by GAs** - [*Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
+Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://arxiv.org/pdf/1712.06567.pdf)  
+`genetic algorithms` `robot learning` `deep neural networks` `novelty search`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
