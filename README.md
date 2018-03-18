@@ -35,6 +35,9 @@ Copyright (c) 2018 Zhiang Chen
 Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://arxiv.org/pdf/1712.06567.pdf)  
 `genetic algorithms` `robot learning` `deep neural networks` `novelty search`
 
+9. **Interaction Network** - [*Interaction Networks for Learning about Objects, Relations and Physics*](https://arxiv.org/pdf/1612.00222.pdf)  
+`Graph Neural Network`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
