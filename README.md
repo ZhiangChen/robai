@@ -51,4 +51,5 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 1. [The Role of Multi-Agent Learning in Artificial Intelligence Research at DeepMind](https://www.youtube.com/watch?v=CvL-KV3IBcM)  
 `game theory & AI` `AlphaGo` `multiagent AI`
 
-## Blogs
+## Blogs  
+1. [*Understanding LSTM Networks, colah's blog*](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
