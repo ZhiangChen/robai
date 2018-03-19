@@ -36,7 +36,10 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 `genetic algorithms` `robot learning` `deep neural networks` `novelty search`
 
 9. **Interaction Network** - [*Interaction Networks for Learning about Objects, Relations and Physics, 2016, Arxiv*](https://arxiv.org/pdf/1612.00222.pdf)  
-`Graph Neural Network`
+`Graph Neural Network(GNN)`
+
+10. **CommNet** - [*Learning Multiagent Communication with Backpropagation, 2016, Arxiv*](https://arxiv.org/pdf/1605.07736.pdf)  
+`GNN` `multiagent learning` `centralized control` `multiagent communication network`
 
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
