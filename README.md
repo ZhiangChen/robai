@@ -41,7 +41,7 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 10. **CommNet** - [*Learning Multiagent Communication with Backpropagation, 2016, Arxiv*](https://arxiv.org/pdf/1605.07736.pdf)  
 `GNN` `multiagent learning` `centralized control` `multiagent communication network`
 
-11. **Neural Relational Inference (NRI)** - [*Neural Relational Inference for Interacting Systems*](https://arxiv.org/pdf/1802.04687.pdf)  
+11. **Neural Relational Inference (NRI)** - [*Neural Relational Inference for Interacting Systems, 2018, Arxiv*](https://arxiv.org/pdf/1802.04687.pdf)  
 `GNN` `concrete VAE` `interaction inference`
 
 ## Books
