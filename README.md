@@ -47,6 +47,7 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+3. [**Artificial Intelligence: A Modern Approach** Third Edition, Stuart Russell and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
 ## Courses
 
