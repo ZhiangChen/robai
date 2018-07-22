@@ -44,6 +44,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 11. **Neural Relational Inference (NRI)** - [*Neural Relational Inference for Interacting Systems, 2018, Arxiv*](https://arxiv.org/pdf/1802.04687.pdf)  
 `GNN` `concrete VAE` `interaction inference`
 
+12. **Sensor Placement** - [*Near-Optimal Sensor Placements in Gaussian Processes: Theory, Efficient Algorithms and Empirical Studies, 2008, Journal of Machine Learning Research*](http://www.jmlr.org/papers/volume9/krause08a/krause08a.pdf)  
+`robotic sampling` `Gaussian Process` `mutual information` `modularity`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
