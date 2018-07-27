@@ -54,6 +54,8 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 4. [**Probabilistic Robotics** Sebastian Thrun, Wolfram Burgard, and Dieter Fox](http://www.probabilistic-robotics.org/)
 
 ## Courses
+1. [Computer Vision by Mubarak Shah](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)  
+`computer vision` `feature detector` `optical flow` `SfM`
 
 ## Videos
 1. [The Role of Multi-Agent Learning in Artificial Intelligence Research at DeepMind](https://www.youtube.com/watch?v=CvL-KV3IBcM)  
