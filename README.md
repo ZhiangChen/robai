@@ -50,6 +50,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 13. **FCN** - [*Fully Convolutional Networks for Semantic Segmentation, 2015, Proceedings of the IEEE conference on computer vision and pattern recognition*](https://ieeexplore.ieee.org/document/7298965/)  
 `Semantic Segmentation` `deep learning`
 
+14. [**Mask RCNN** *2017, Arxiv*](https://arxiv.org/abs/1703.06870)  
+`object detection` `mask segmentation`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -66,3 +69,4 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 
 ## Blogs  
 1. [*Understanding LSTM Networks, colah's blog*](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. [*Faster RCNN (Object Detection and Classification using R-CNNs),  Ankur Mohan's blog*](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
