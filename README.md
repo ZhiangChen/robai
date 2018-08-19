@@ -50,7 +50,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 13. **FCN** - [*Fully Convolutional Networks for Semantic Segmentation, 2015, Proceedings of the IEEE conference on computer vision and pattern recognition*](https://ieeexplore.ieee.org/document/7298965/)  
 `Semantic Segmentation` `deep learning`
 
-14. [**Mask RCNN** *2017, Arxiv*](https://arxiv.org/abs/1703.06870)  
+14. **Mask RCNN**  
+[*Faster RCNN: Towards Real-Time Object Detection with Region Proposal Networks, 2015, Arxiv*](https://arxiv.org/abs/1506.01497)  
+[*Mask RCNN, 2017, Arxiv*](https://arxiv.org/abs/1703.06870)  
 `object detection` `mask segmentation`
 
 ## Books
