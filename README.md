@@ -55,6 +55,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*Mask RCNN, 2017, Arxiv*](https://arxiv.org/abs/1703.06870)  
 `object detection` `mask segmentation`
 
+15. **U-Net** - [*U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015, Arxiv*](https://arxiv.org/abs/1505.04597)  
+`Semantic Segmentation` `deep learning`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
