@@ -61,6 +61,7 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 16. **YOLO**  
 [*You only look once: Unified, real-time object detection, 2016, CVPR*](https://ieeexplore.ieee.org/document/7780460)  
 [*YOLO9000: Better, Faster, Stronger, 2016, Arxiv*](https://arxiv.org/abs/1612.08242)  
+[*YOLOv3: An Incremental Improvement, 2018, Arxiv*](https://arxiv.org/abs/1804.02767)  
 `object detection` `deep learning`
 
 ## Books
