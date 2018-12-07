@@ -58,7 +58,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 15. **U-Net** - [*U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015, Arxiv*](https://arxiv.org/abs/1505.04597)  
 `Semantic Segmentation` `deep learning`
 
-16. **YOLO** - [*You only look once: Unified, real-time object detection, 2016, CVPR*](https://ieeexplore.ieee.org/document/7780460)  
+16. **YOLO**  
+[*You only look once: Unified, real-time object detection, 2016, CVPR*](https://ieeexplore.ieee.org/document/7780460)  
+[*YOLO9000: Better, Faster, Stronger, 2016, Arxiv*](https://arxiv.org/abs/1612.08242)  
 `object detection` `deep learning`
 
 ## Books
