@@ -58,6 +58,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 15. **U-Net** - [*U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015, Arxiv*](https://arxiv.org/abs/1505.04597)  
 `Semantic Segmentation` `deep learning`
 
+16. **YOLO** - [*You only look once: Unified, real-time object detection, 2016, CVPR*](https://ieeexplore.ieee.org/document/7780460)  
+`object detection` `deep learning`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
