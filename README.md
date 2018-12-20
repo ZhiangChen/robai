@@ -64,6 +64,11 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*YOLOv3: An Incremental Improvement, 2018, Arxiv*](https://arxiv.org/abs/1804.02767)  
 `object detection` `deep learning`
 
+17. **Feature Pyramid Networks**  
+[*Feature Pyramid Networks for Object Detection, 2016, Arxiv*](https://arxiv.org/abs/1612.03144)  
+[*Focal Loss for Dense Object Detection, 2017, Arxiv*](https://arxiv.org/abs/1708.02002)  
+`object detection` `FPN` `RetinaNet`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
