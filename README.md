@@ -69,6 +69,14 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*Focal Loss for Dense Object Detection, 2017, Arxiv*](https://arxiv.org/abs/1708.02002)  
 `object detection` `FPN` `RetinaNet`
 
+18. **Pix2pix**  
+[*Image-to-Image Translation with Conditional Adversarial Networks, 2016, Arxiv*](https://arxiv.org/abs/1611.07004)  
+`conditional GAN`
+
+19. **Wasserstein GAN**  
+[*Wasserstein GAN, 2017, Arxiv*](https://arxiv.org/abs/1701.07875)  
+`Wasserstein GAN` `loss functions`
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -86,3 +94,4 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 ## Blogs  
 1. [*Understanding LSTM Networks, colah's blog*](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 2. [*Faster RCNN (Object Detection and Classification using R-CNNs),  Ankur Mohan's blog*](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
+3. [*From GAN to WGAN, Lil'Log*](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html#kullbackleibler-and-jensenshannon-divergence)
