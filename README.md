@@ -77,9 +77,10 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*Wasserstein GAN, 2017, Arxiv*](https://arxiv.org/abs/1701.07875)  
 `Wasserstein GAN` `loss functions`
 
-20. **Novelty Detection GAN**  
+20. **GAN and Novelty Detection**  
 [*Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery, 2017, Arxiv*](https://arxiv.org/abs/1703.05921)  
-`Novelty Detection` `GAN` `Representation mapping`
+[*Improved Techniques for Training GANs, 2016, Arxiv*](https://arxiv.org/abs/1606.03498)  
+`Novelty Detection` `GAN` `Representation mapping` `feature matching` `minibatch discrimination` `VBN`  
 
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
