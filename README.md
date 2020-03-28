@@ -82,6 +82,9 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*Improved Techniques for Training GANs, 2016, Arxiv*](https://arxiv.org/abs/1606.03498)  
 `Novelty Detection` `GAN` `Representation mapping` `feature matching` `minibatch discrimination` `VBN`  
 
+21. **UAV System**  
+[*Fast, autonomous flight in GPS-denied and cluttered environments*](https://www.cis.upenn.edu/~kostas/mypub.dir/mohta18jfr.pdf)
+
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 2. [**Reinforcement Learning: An Introduction** Second Edition, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
