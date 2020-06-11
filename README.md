@@ -82,8 +82,17 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 [*Improved Techniques for Training GANs, 2016, Arxiv*](https://arxiv.org/abs/1606.03498)  
 `Novelty Detection` `GAN` `Representation mapping` `feature matching` `minibatch discrimination` `VBN`  
 
-21. **UAV System**  
-[*Fast, autonomous flight in GPS-denied and cluttered environments*](https://www.cis.upenn.edu/~kostas/mypub.dir/mohta18jfr.pdf)
+21. **UAV**  
+[*Fast, autonomous flight in GPS-denied and cluttered environments*](https://www.cis.upenn.edu/~kostas/mypub.dir/mohta18jfr.pdf) `UAV System`  
+[*Geometric tracking control of a quadrotor UAV on SE(3)*](https://ieeexplore.ieee.org/document/5717652) `geometric control`  
+[*Minimum Snap Trajectory Generation and Control for Quadrotors*](http://www-personal.acfr.usyd.edu.au/spns/cdm/papers/Mellinger.pdf) `trajectory generation`  
+[*Polynomial Trajectory Planning for Quadrotor Flight*](https://pdfs.semanticscholar.org/8c76/f1add88df14c59f75818952beaa1ec69f62a.pdf) `trajectory generation`  
+
+22. **SLAM**  
+[*OctoMap:
+An Efficient Probabilistic 3D Mapping Framework Based on Octrees*](https://courses.cs.washington.edu/courses/cse571/16au/slides/hornung13auro.pdf) `3D map`  
+
+
 
 ## Books
 1. [**Deep Learning** Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
@@ -103,3 +112,6 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 1. [*Understanding LSTM Networks, colah's blog*](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 2. [*Faster RCNN (Object Detection and Classification using R-CNNs),  Ankur Mohan's blog*](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
 3. [*From GAN to WGAN, Lil'Log*](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html#kullbackleibler-and-jensenshannon-divergence)
+
+## Tools  
+1. [GTSAM](https://gtsam.org/): factor-graph-based optimization solver for SLAM and SAM
