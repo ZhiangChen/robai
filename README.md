@@ -91,6 +91,7 @@ Training Deep Neural Networks for Reinforcement Learning, 2017, Arxiv*](https://
 22. **SLAM**  
 [*OctoMap:
 An Efficient Probabilistic 3D Mapping Framework Based on Octrees*](https://courses.cs.washington.edu/courses/cse571/16au/slides/hornung13auro.pdf) `3D map`  
+[*ORB-SLAM: a Versatile and Accurate Monocular SLAM System*](https://arxiv.org/pdf/1502.00956.pdf) `monocular SLAM`  
 
 
 
